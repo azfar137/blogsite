@@ -120,6 +120,10 @@ nav li:hover{
 }
 
 #blog-banner-section div{
+ display: flex;
+ flex-direction:column;
+ justify-content: center;
+ align-items: center;
  flex-basis: 50%;
  margin: 1rem;
 }
