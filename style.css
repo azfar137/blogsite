@@ -119,7 +119,7 @@ nav li:hover{
  min-height: 95vh;
 }
 
-#blog-banner-section article{
+#blog-banner-section div{
  flex-basis: 50%;
  margin: 1rem;
 }
